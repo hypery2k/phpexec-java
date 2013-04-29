@@ -15,7 +15,7 @@
 
     <groupId>org.phpmaven.sites</groupId>
     <artifactId>phpexec-java-site</artifactId>
-    <version>0.1.10-SNAPSHOT</version>
+    <version>0.1.10</version>
     <packaging>pom</packaging>
 
     <name>${project.version}</name>
@@ -37,7 +37,7 @@
     <scm>
 	  <connection>scm:git:git://github.com/neutrico/phpexec-java.git</connection>
       <developerConnection>scm:git:ssh://git@github.com/neutrico/phpexec-java.git</developerConnection>
-    <tag>phpexec-java-site-0.1.9-SNAPSHOT</tag>
+    <tag>phpexec-java-site-0.1.10</tag>
   </scm>
     
     <modules>
