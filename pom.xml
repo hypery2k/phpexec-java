@@ -36,7 +36,7 @@
     
     <scm>
 	  <connection>scm:git:git://github.com/neutrico/phpexec-java.git</connection>
-      <developerConnection>scm:git:git://github.com/neutrico/phpexec-java.git</developerConnection>
+      <developerConnection>scm:git:ssh://git@github.com/neutrico/phpexec-java.git</developerConnection>
     <tag>phpexec-java-site-0.1.9-SNAPSHOT</tag>
   </scm>
     
