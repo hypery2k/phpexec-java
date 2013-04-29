@@ -22,11 +22,11 @@
 
     
     <distributionManagement>
-        <site>
+<!--        <site>
             <id>upload-${phpmavenSitesId}</id>
             <name>${phpmavenSitesName}</name>
             <url>${phpmavenSitesUploadUrl}/var/sites-aggregator</url>
-        </site>
+        </site> -->
     </distributionManagement>
 
     <description>A public API for executing php from java.</description>
